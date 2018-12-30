@@ -6,4 +6,4 @@ GCM results for the ARIEL phase curve working group
 | WASP-43b | ... | ... | ... | ... |
 | ... | ... | ... | ... | ... |
 
-Tool to easily vizualize data: available soo.
+Tool to easily vizualize data: It will be made open-source soon.
