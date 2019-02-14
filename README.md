@@ -6,4 +6,4 @@ GCM results for the ARIEL phase curve working group
 | [WASP-43b](http://exoplanet.eu/catalog/wasp-43_b/) | [THOR](http://iopscience.iop.org/article/10.3847/0004-637X/829/2/115/meta) | [FILES](https://github.com/jmmendonca/ARIEL-GCM-PHASE-CURVES/blob/master/DATA/GCM/THOR/) | - | - | - |
 | - | - | - | - | - | - |
 
-Tool to easily vizualize the phase curves will be made open-source soon.
+A tool to easily vizualize the phase curves will be made open-source soon.
